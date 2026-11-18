@@ -1,0 +1,44 @@
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+**/build/
+**/.gradle/
+coverage/
+
+# Local development environments and generated artifacts
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+apks/
+*.apk
+firebase-debug.log
+firebase-debug.*.log
+
+# Local credentials and deployment state
+.env
+.env.*
+!.env.example
+.firebase/
+.wrangler/
+*.jks
+*.keystore
+service-account*.json
+google-services.json
+GoogleService-Info.plist
+
+# Machine-specific Flutter / IDE files
+android/local.properties
+ios/Flutter/Generated.xcconfig
+ios/Flutter/flutter_export_environment.sh
+macos/Flutter/ephemeral/
+windows/flutter/ephemeral/
+.idea/workspace.xml
+.idea/
+*.iml
+**/ephemeral/
+test/.hive_test_data/
+.DS_Store
+

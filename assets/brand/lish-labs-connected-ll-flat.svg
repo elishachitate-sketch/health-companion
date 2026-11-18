@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Lish Labs Connected LL icon</title>
+  <desc id="desc">A flat-color geometric connected LL monogram for Lish Labs.</desc>
+  <rect width="512" height="512" rx="112" fill="#111827"/>
+  <path d="M150 126v196c0 34 18 52 55 52h49" fill="none" stroke="#38BDF8" stroke-width="38" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M258 126v196c0 34 18 52 55 52h49" fill="none" stroke="#A78BFA" stroke-width="38" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="360" cy="118" r="21" fill="#F8FAFC"/>
+</svg>

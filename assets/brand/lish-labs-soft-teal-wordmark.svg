@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 420" role="img" aria-labelledby="title desc">
+  <title id="title">Lish Labs Soft Teal wordmark</title>
+  <desc id="desc">Lish Labs text beside a connected LL symbol in a balanced soft teal palette.</desc>
+  <rect width="1400" height="420" fill="#F7F5F0"/>
+  <g transform="translate(45 45)">
+    <rect width="330" height="330" rx="82" fill="#E7F0EE"/>
+    <path d="M98 92v130c0 28 15 43 45 43h40" fill="none" stroke="#3F7770" stroke-width="29" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M188 92v130c0 28 15 43 45 43h40" fill="none" stroke="#78A9A0" stroke-width="29" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="282" cy="85" r="15" fill="#F7F5F0"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="470" y="190" fill="#334155" font-size="112" font-weight="700" letter-spacing="-3">Lish</text>
+    <text x="475" y="278" fill="#3F7770" font-size="70" font-weight="400" letter-spacing="15">LABS</text>
+    <text x="478" y="334" fill="#64748B" font-size="20" letter-spacing="2">BUILDING INTELLIGENT DIGITAL EXPERIENCES</text>
+  </g>
+</svg>

@@ -1,0 +1,5 @@
+{
+  "projects": {
+    "default": "YOUR_HEALTH_COMPANION_FIREBASE_PROJECT_ID"
+  }
+}

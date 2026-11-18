@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 520" role="img" aria-labelledby="title desc">
+  <title id="title">Lish Labs balanced color concepts</title>
+  <desc id="desc">Balanced light and medium-tone flat-color palettes for the Connected LL logo.</desc>
+  <rect width="1500" height="520" fill="#F7F5F0"/>
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <g transform="translate(70 50)">
+      <rect width="380" height="380" rx="82" fill="#E7F0EE"/>
+      <path d="M112 102v145c0 26 14 40 42 40h36" fill="none" stroke="#3F7770" stroke-width="28" stroke-linecap="round"/>
+      <path d="M190 102v145c0 26 14 40 42 40h36" fill="none" stroke="#78A9A0" stroke-width="28" stroke-linecap="round"/>
+      <circle cx="286" cy="94" r="15" fill="#F7F5F0"/>
+      <text x="190" y="460" fill="#334155" font-size="28" font-weight="700">01 · SOFT TEAL</text>
+    </g>
+    <g transform="translate(560 50)">
+      <rect width="380" height="380" rx="82" fill="#E9EDF6"/>
+      <path d="M112 102v145c0 26 14 40 42 40h36" fill="none" stroke="#52658A" stroke-width="28" stroke-linecap="round"/>
+      <path d="M190 102v145c0 26 14 40 42 40h36" fill="none" stroke="#8A9BC0" stroke-width="28" stroke-linecap="round"/>
+      <circle cx="286" cy="94" r="15" fill="#FFFFFF"/>
+      <text x="190" y="460" fill="#334155" font-size="28" font-weight="700">02 · SLATE BLUE</text>
+    </g>
+    <g transform="translate(1050 50)">
+      <rect width="380" height="380" rx="82" fill="#F4E9E2"/>
+      <path d="M112 102v145c0 26 14 40 42 40h36" fill="none" stroke="#A96758" stroke-width="28" stroke-linecap="round"/>
+      <path d="M190 102v145c0 26 14 40 42 40h36" fill="none" stroke="#D39A87" stroke-width="28" stroke-linecap="round"/>
+      <circle cx="286" cy="94" r="15" fill="#FFF9F5"/>
+      <text x="190" y="460" fill="#334155" font-size="28" font-weight="700">03 · WARM CLAY</text>
+    </g>
+  </g>
+</svg>

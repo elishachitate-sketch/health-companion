@@ -1,0 +1,33 @@
+const Map<String, Map<String, String>> strings = {
+  'en': {
+    'appName': 'basira',
+    'heroTitle': 'A clearer picture. A healthier tomorrow.',
+    'heroSubtitle':
+        'Brain health starts with understanding you. Not just a score.',
+    'chooseLanguage': 'Choose your language',
+    'arabic': 'Arabic',
+    'english': 'English',
+    'makeComfortable': 'Make this comfortable',
+    'hearingSupport': 'Hearing support',
+    'hearingSub': 'Amplify sound and clarify speech',
+    'visionSupport': 'Vision support',
+    'visionSub': 'Increase contrast and text size',
+    'withSomeoneSupport': 'Continue with someone',
+    'withSomeoneSub': 'Invite a companion during use',
+  },
+  'ar': {
+    'appName': 'بصيرة',
+    'heroTitle': 'صورة أوضح. وعد أكثر صحة.',
+    'heroSubtitle': 'تبدأ صحة الدماغ بفهمك أنت. لا مجرد نتيجة.',
+    'chooseLanguage': 'اختر لغتك',
+    'arabic': 'العربية',
+    'english': 'الإنجليزية',
+    'makeComfortable': 'اجعل التجربة مريحة لك',
+    'hearingSupport': 'دعم السمع',
+    'hearingSub': 'تكبير الصوت وتوضيحه',
+    'visionSupport': 'دعم البصر',
+    'visionSub': 'زيادة التباين وتكبير الخط',
+    'withSomeoneSupport': 'المتابعة برفقة شخص تثق به',
+    'withSomeoneSub': 'دعوة مرافق للمساعدة أثناء الاستخدام',
+  },
+};

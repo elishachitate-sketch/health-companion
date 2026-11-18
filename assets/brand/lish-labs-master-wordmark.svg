@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 560" role="img" aria-labelledby="title desc">
+  <title id="title">Lish Labs master wordmark</title>
+  <desc id="desc">Rounded slate Lish Labs logo with connected L mark and modern wordmark.</desc>
+  <rect width="1500" height="560" rx="64" fill="#56616D"/>
+  <g transform="translate(105 96) scale(.62)">
+    <path d="M166 72v300c0 44 24 68 70 68h98" fill="none" stroke="#111827" stroke-width="58" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M346 72v300c0 44 24 68 70 68h98" fill="none" stroke="#273449" stroke-width="58" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="548" cy="62" r="24" fill="#FFFFFF"/>
+  </g>
+  <g font-family="Inter, Avenir Next, Montserrat, Arial, sans-serif">
+    <text x="620" y="275" fill="#FFFFFF" font-size="110" font-weight="650" letter-spacing="-2">Lish Labs</text>
+    <text x="625" y="340" fill="#D5D9DE" font-size="22" font-weight="500" letter-spacing="5">INTELLIGENT DIGITAL EXPERIENCES</text>
+  </g>
+</svg>

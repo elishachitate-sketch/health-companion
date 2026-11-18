@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2560 1440" role="img" aria-labelledby="title desc">
+  <title id="title">Lish Labs YouTube banner</title>
+  <desc id="desc">Wide dark slate YouTube banner for Lish Labs with the rounded Connected LL logo.</desc>
+  <rect width="2560" height="1440" fill="#56616D"/>
+  <circle cx="2140" cy="330" r="650" fill="#697582" opacity=".38"/>
+  <circle cx="2240" cy="1120" r="520" fill="#3F4A56" opacity=".28"/>
+  <g transform="translate(440 430) scale(1.75)">
+    <path d="M166 72v300c0 44 24 68 70 68h98" fill="none" stroke="#111827" stroke-width="58" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M346 72v300c0 44 24 68 70 68h98" fill="none" stroke="#273449" stroke-width="58" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="548" cy="62" r="24" fill="#FFFFFF"/>
+  </g>
+  <g font-family="Inter, Avenir Next, Montserrat, Arial, sans-serif">
+    <text x="1340" y="690" fill="#FFFFFF" font-size="170" font-weight="650" letter-spacing="-4">Lish Labs</text>
+    <text x="1350" y="790" fill="#D5D9DE" font-size="40" font-weight="500" letter-spacing="8">INTELLIGENT DIGITAL EXPERIENCES</text>
+  </g>
+</svg>

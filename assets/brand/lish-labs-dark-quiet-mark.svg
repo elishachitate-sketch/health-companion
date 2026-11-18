@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" role="img" aria-labelledby="title desc">
+  <title id="title">Lish Labs dark quiet logo</title>
+  <desc id="desc">A restrained dark Lish Labs logo with two tonal L shapes, a white dot, and the wordmark below.</desc>
+  <rect width="900" height="900" fill="#56616D"/>
+  <g transform="translate(155 100)">
+    <path d="M166 72v300c0 44 24 68 70 68h98" fill="none" stroke="#111827" stroke-width="58" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M346 72v300c0 44 24 68 70 68h98" fill="none" stroke="#273449" stroke-width="58" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="548" cy="62" r="24" fill="#FFFFFF"/>
+  </g>
+  <g fill="#FFFFFF" text-anchor="middle" font-family="Trebuchet MS, Arial, sans-serif">
+    <text x="450" y="690" font-size="86" font-weight="700" letter-spacing="2">Lish Labs</text>
+    <text x="450" y="750" fill="#D5D9DE" font-size="22" letter-spacing="5">INTELLIGENT DIGITAL EXPERIENCES</text>
+  </g>
+</svg>
